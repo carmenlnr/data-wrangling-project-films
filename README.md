@@ -13,42 +13,53 @@ El dataset proviene de dos fuentes pública de datos de películas:
 1. TMDB Movie Dataset (Kaggle)
 
 Se ha utilizado como base principal del análisis. Contiene información de miles de películas con datos como:
+
     - título género 
+
     - presupuesto 
+
     - popularidad 
+
     - valoración media (TMDB)
+
     - número de votos 
+
     - fecha de estreno
+
 
 2. OMDb API (datos externos de películas)
 
 Se ha utilizado para enriquecer el dataset con información adicional: 
+
     - valoración IMDb 
+
     - número de votos en IMDb 
+
     - director 
+
     - año de estreno
 
 
 ### Hipotesis
 1. El género influye en popularidad y valoración
 
-Se analiza si ciertos géneros destacan más en popularidad o en calidad percibida.
+    Se analiza si ciertos géneros destacan más en popularidad o en calidad percibida.
 
 2. El presupuesto influye más en popularidad que en valoración
 
-Se estudia si las películas más caras son más visibles, pero no necesariamente mejor valoradas.
+    Se estudia si las películas más caras son más visibles, pero no necesariamente mejor valoradas.
 
 3. Popularidad no siempre está relacionada con la valoración
 
-Se analiza si una película muy popular también está bien valorada.
+    Se analiza si una película muy popular también está bien valorada.
 
 4. IMDb y TMDB pueden ofrecer valoraciones diferentes
 
-Se comparan dos sistemas de valoración diferentes.
+    Se comparan dos sistemas de valoración diferentes.
 
 5. Las películas recientes tienden a ser más populares
 
-Se analiza si el paso del tiempo afecta a la popularidad y valoración.
+    Se analiza si el paso del tiempo afecta a la popularidad y valoración.
 
 ---
 
@@ -75,20 +86,20 @@ Se analiza si el paso del tiempo afecta a la popularidad y valoración.
 - Análisis de datos
 
 Durante el análisis se han estudiado los siguientes aspectos:
-     #### Géneros
-        Géneros más frecuentes
-        Relación con popularidad, valoración y presupuesto
-    #### Valoraciones
-        Comparación entre TMDB e IMDb
-        Relación entre valoración y popularidad
-    #### Presupuesto
-        Relación con género, popularidad y valoración
-    #### Popularidad
-        Películas más populares
-        Relación con valoración
-    #### API (IMDb)
-        Comparación IMDb vs TMDB
-        Número de votos, director y año de estreno
+     - Géneros
+        - Géneros más frecuentes
+        - Relación con popularidad, valoración y presupuesto
+    - Valoraciones
+        - Comparación entre TMDB e IMDb
+        - Relación entre valoración y popularidad
+    - Presupuesto
+        - Relación con género, popularidad y valoración
+    - Popularidad
+        - Películas más populares
+        - Relación con valoración
+    - API (IMDb)
+        - Comparación IMDb vs TMDB
+        - Número de votos, director y año de estreno
 
 
 
@@ -105,11 +116,17 @@ Durante el análisis se han definido indicadores clave para entender mejor el da
 
 ### Métricas clave usadas
 Para el análisis se han utilizado operaciones básicas de agrupación y cálculo:
+
 COUNT() → para contar películas
+
 AVG() → para calcular medias (rating, presupuesto, popularidad, votos)
+
 MIN / MAX → para ver valores extremos
+
 GROUP BY → para agrupar por género o año
+
 JOIN → para unir datos del dataset con la API (OMDb)
+
 Operaciones de limpieza en Pandas → para preparar y estructurar los datos
 
 
