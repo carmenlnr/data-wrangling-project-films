@@ -30,17 +30,11 @@ El dataset proviene de dos fuentes pública de datos de películas:
 Dataset principal que contiene información de miles de películas con variables como:
 
     - título 
-    
     - género 
-
     - presupuesto 
-
     - popularidad 
-
     - valoración media (TMDB)
-
     - número de votos 
-
     - fecha de estreno
 
 
@@ -49,11 +43,8 @@ Dataset principal que contiene información de miles de películas con variables
 Se ha utilizado para enriquecer el dataset con información adicional: 
 
     - valoración OMDb 
-
     - número de votos  
-
     - director 
-
     - año de estreno
 
 
