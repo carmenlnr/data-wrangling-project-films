@@ -13,7 +13,6 @@ El objetivo no es únicamente comparar métricas, sino entender cómo interactú
 ### Objetivo del proyecto
 
 El objetivo de este proyecto es analizar qué factores influyen en el rendimiento de una película desde un enfoque multidimensional, estudiando relaciones entre variables como:
-
 - Popularidad → nivel de consumo o visibilidad de una película
 - Valoración → percepción de calidad por parte del público
 - Género → tipo de contenido cinematográfico
@@ -28,7 +27,6 @@ El dataset proviene de dos fuentes pública de datos de películas:
 1. TMDB Movie Dataset (Kaggle)
 
 Dataset principal que contiene información de miles de películas con variables como:
-
     - título 
     - género 
     - presupuesto 
@@ -41,7 +39,6 @@ Dataset principal que contiene información de miles de películas con variables
 2. OMDb API (datos externos de películas)
 
 Se ha utilizado para enriquecer el dataset con información adicional: 
-
     - valoración OMDb 
     - número de votos  
     - director 
