@@ -1,0 +1,501 @@
+imdb_rating,imdb_votes,director,year,title
+7.9,"1,486,308",James Cameron,2009,Avatar
+7.2,"743,246",Gore Verbinski,2007,Pirates of the Caribbean: At World's End
+6.8,"493,010",Sam Mendes,2015,Spectre
+8.4,"1,990,749",Christopher Nolan,2012,The Dark Knight Rises
+6.6,"294,974",Andrew Stanton,2012,John Carter
+6.3,"692,051",Sam Raimi,2007,Spider-Man 3
+7.7,"540,207","Nathan Greno, Byron Howard",2010,Tangled
+7.3,"998,463",Joss Whedon,2015,Avengers: Age of Ultron
+7.6,"653,701",David Yates,2009,Harry Potter and the Half-Blood Prince
+6.4,"790,738",Zack Snyder,2016,Batman v Superman: Dawn of Justice
+6.1,"302,225",Bryan Singer,2006,Superman Returns
+6.5,"494,408",Marc Forster,2008,Quantum of Solace
+7.4,"825,206",Gore Verbinski,2006,Pirates of the Caribbean: Dead Man's Chest
+6.4,"252,056",Gore Verbinski,2013,The Lone Ranger
+7.1,"865,769",Zack Snyder,2013,Man of Steel
+6.5,"238,224",Andrew Adamson,2008,The Chronicles of Narnia: Prince Caspian
+8.0,"1,555,308",Joss Whedon,2012,The Avengers
+6.6,"606,603",Rob Marshall,2011,Pirates of the Caribbean: On Stranger Tides
+7.9,7,Rick Tugman,2012,Men in Black 3
+7.4,"617,163",Peter Jackson,2014,The Hobbit: The Battle of the Five Armies
+6.9,"763,493",Marc Webb,2012,The Amazing Spider-Man
+6.6,"294,277",Ridley Scott,2010,Robin Hood
+7.8,"752,978",Peter Jackson,2013,The Hobbit: The Desolation of Smaug
+6.1,"199,671",Chris Weitz,2007,The Golden Compass
+7.2,"465,049",Peter Jackson,2005,King Kong
+8.0,"1,389,357",James Cameron,1997,Titanic
+7.8,"925,892","Anthony Russo, Joe Russo",2016,Captain America: Civil War
+5.8,"268,384",Peter Berg,2012,Battleship
+6.9,"723,175",Colin Trevorrow,2015,Jurassic World
+7.8,"768,360",Sam Mendes,2012,Skyfall
+7.5,"777,496",Sam Raimi,2004,Spider-Man 2
+7.1,"964,747",Shane Black,2013,Iron Man 3
+6.4,"464,214",Tim Burton,2010,Alice in Wonderland
+6.6,"571,579",Brett Ratner,2006,X-Men: The Last Stand
+7.2,"421,121",Dan Scanlon,2013,Monsters University
+6.0,"451,650",Michael Bay,2009,Transformers: Revenge of the Fallen
+5.6,"347,982",Michael Bay,2014,Transformers: Age of Extinction
+6.3,"220,679",Sam Raimi,2013,Oz: The Great and Powerful
+6.6,"588,917",Marc Webb,2014,The Amazing Spider-Man 2
+6.8,"386,829",Joseph Kosinski,2010,TRON: Legacy
+6.2,"251,842","John Lasseter, Bradford Lewis",2011,Cars 2
+5.5,"307,536",Martin Campbell,2011,Green Lantern
+8.3,"961,588",Lee Unkrich,2010,Toy Story 3
+6.5,"388,740",McG,2009,Terminator Salvation
+7.1,"437,204",James Wan,2015,Furious 7
+7.0,"778,104",Marc Forster,2013,World War Z
+7.9,"786,991",Bryan Singer,2014,X-Men: Days of Future Past
+7.7,"509,207",J.J. Abrams,2013,Star Trek Into Darkness
+6.3,"153,746",Bryan Singer,2013,Jack the Giant Slayer
+7.2,"641,730",Baz Luhrmann,2013,The Great Gatsby
+6.5,"317,247",Mike Newell,2010,Prince of Persia: The Sands of Time
+6.9,"555,685",Guillermo del Toro,2013,Pacific Rim
+6.2,"453,805",Michael Bay,2011,Transformers: Dark of the Moon
+6.2,"511,928",Steven Spielberg,2008,Indiana Jones and the Kingdom of the Crystal Skull
+6.7,"138,579",Peter Sohn,2015,The Good Dinosaur
+7.1,"475,578","Mark Andrews, Brenda Chapman, Steve Purcell",2012,Brave
+7.0,"268,984",Justin Lin,2016,Star Trek Beyond
+8.4,"1,306,354",Andrew Stanton,2008,WALL·E
+6.3,"197,947",Brett Ratner,2007,Rush Hour 3
+5.9,"419,441",Roland Emmerich,2009,2012
+6.8,"136,559",Robert Zemeckis,2009,A Christmas Carol
+5.3,"200,972","Lana Wachowski, Lilly Wachowski",2015,Jupiter Ascending
+6.2,"197,155",David Yates,2016,The Legend of Tarzan
+6.9,"450,246",Andrew Adamson,2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+6.8,"491,572",Bryan Singer,2016,X-Men: Apocalypse
+9.1,"3,161,907",Christopher Nolan,2008,The Dark Knight
+8.3,"1,225,827","Pete Docter, Bob Peterson",2009,Up
+6.3,"3,520",Peter Ramsey,2009,Monsters vs Aliens
+7.9,"1,223,183",Jon Favreau,2008,Iron Man
+7.5,"348,108",Martin Scorsese,2011,Hugo
+4.9,"171,971",Barry Sonnenfeld,1999,Wild Wild West
+5.2,"179,224",Rob Cohen,2008,The Mummy: Tomb of the Dragon Emperor
+5.9,"758,745",David Ayer,2016,Suicide Squad
+5.4,"159,979",Tom Shadyac,2007,Evan Almighty
+7.9,"802,767",Doug Liman,2014,Edge of Tomorrow
+6.3,"222,867",Kevin Reynolds,1995,Waterworld
+5.7,"220,928",Stephen Sommers,2009,G.I. Joe: The Rise of Cobra
+8.1,"905,131","Pete Docter, Ronnie Del Carmen",2015,Inside Out
+7.3,"304,379",Jon Favreau,2016,The Jungle Book
+6.9,"936,571",Jon Favreau,2010,Iron Man 2
+6.1,"312,075",Rupert Sanders,2012,Snow White and the Huntsman
+6.9,"420,347",Robert Stromberg,2014,Maleficent
+7.6,"508,717",Matt Reeves,2014,Dawn of the Planet of the Apes
+7.2,"6,256",Louis Malle,1958,The Lovers
+6.2,"178,763",Carl Rinsch,2013,47 Ronin
+7.7,"970,692","Anthony Russo, Joe Russo",2014,Captain America: The Winter Soldier
+6.3,"243,636",Mike Mitchell,2010,Shrek Forever After
+6.4,"198,340",Brad Bird,2015,Tomorrowland
+7.8,"548,572","Don Hall, Chris Williams",2014,Big Hero 6
+7.7,"494,419",Rich Moore,2012,Wreck-It Ralph
+6.6,"270,029",Robert Zemeckis,2004,The Polar Express
+5.2,"197,984",Roland Emmerich,2016,Independence Day: Resurgence
+8.1,"882,954","Dean DeBlois, Chris Sanders",2010,How to Train Your Dragon
+6.3,"435,195",Jonathan Mostow,2003,Terminator 3: Rise of the Machines
+8.0,"1,362,435",James Gunn,2014,Guardians of the Galaxy
+8.7,"2,516,752",Christopher Nolan,2014,Interstellar
+8.8,"2,811,614",Christopher Nolan,2010,Inception
+6.9,"45,126","Shinji Higuchi, Hideaki Anno",2016,Shin Godzilla
+7.8,"926,871",Peter Jackson,2012,The Hobbit: An Unexpected Journey
+6.8,"452,738",Rob Cohen,2001,The Fast and the Furious
+7.8,"740,633",David Fincher,2008,The Curious Case of Benjamin Button
+7.7,"763,121",Matthew Vaughn,2011,X-Men: First Class
+6.6,"410,756",Francis Lawrence,2015,The Hunger Games: Mockingjay - Part 2
+6.1,"176,065",Jon Turteltaub,2010,The Sorcerer's Apprentice
+5.7,"114,775",Wolfgang Petersen,2006,Poseidon
+6.2,"133,655",James Bobin,2016,Alice Through the Looking Glass
+6.1,"357,973","Chris Miller, Raman Hui",2007,Shrek the Third
+6.7,"294,721",Duncan Jones,2016,Warcraft
+6.3,"305,926",Alan Taylor,2015,Terminator Genisys
+6.3,"176,567",Michael Apted,2010,The Chronicles of Narnia: The Voyage of the Dawn Treader
+6.3,"367,857",Michael Bay,2001,Pearl Harbor
+7.1,"714,583",Michael Bay,2007,Transformers
+5.6,"182,330",Oliver Stone,2004,Alexander
+7.5,"693,356",David Yates,2007,Harry Potter and the Order of the Phoenix
+7.7,"746,138",Mike Newell,2005,Harry Potter and the Goblet of Fire
+6.4,"534,419",Peter Berg,2008,Hancock
+7.2,"870,487",Francis Lawrence,2007,I Am Legend
+6.7,"566,515",Tim Burton,2005,Charlie and the Chocolate Factory
+8.1,"940,588","Brad Bird, Jan Pinkava",2007,Ratatouille
+8.2,"1,709,629",Christopher Nolan,2005,Batman Begins
+6.7,"268,534","Eric Darnell, Tom McGrath",2008,Madagascar: Escape 2 Africa
+6.0,"226,638",Shawn Levy,2009,Night at the Museum: Battle of the Smithsonian
+6.5,"567,143",Gavin Hood,2009,X-Men Origins: Wolverine
+6.7,"572,491","Lana Wachowski, Lilly Wachowski",2003,The Matrix Revolutions
+7.4,"708,011","Chris Buck, Jennifer Lee",2013,Frozen
+7.2,"666,077","Lana Wachowski, Lilly Wachowski",2003,The Matrix Reloaded
+6.7,"776,160",Alan Taylor,2013,Thor: The Dark World
+8.1,"1,198,396",George Miller,2015,Mad Max: Fury Road
+6.7,"324,063",Ron Howard,2009,Angels & Demons
+7.0,"963,947",Kenneth Branagh,2011,Thor
+6.8,"241,714","Byron Howard, Chris Williams",2008,Bolt
+5.1,"52,843",Hoyt Yeatman,2009,G-Force
+5.7,"201,440",Jonathan Liebesman,2012,Wrath of the Titans
+6.2,"291,971",Tim Burton,2012,Dark Shadows
+7.4,"445,302",Christopher McQuarrie,2015,Mission: Impossible - Rogue Nation
+5.9,"116,889",Joe Johnston,2010,The Wolfman
+6.1,"195,239","Simon J. Smith, Steve Hickner",2007,Bee Movie
+7.3,"349,971",Jennifer Yuh Nelson,2011,Kung Fu Panda 2
+3.9,"180,350",M. Night Shyamalan,2010,The Last Airbender
+6.9,"424,323",J.J. Abrams,2006,Mission: Impossible III
+6.3,"247,710",Roland Emmerich,2013,White House Down
+5.4,"24,948",Simon Wells,2011,Mars Needs Moms
+6.6,"147,280","David Bowers, Sam Fell",2006,Flushed Away
+5.7,"69,251",Joe Wright,2015,Pan
+6.7,"83,043",Rob Minkoff,2014,Mr. Peabody & Sherman
+7.3,"609,875",Wolfgang Petersen,2004,Troy
+6.8,"215,044","Eric Darnell, Tom McGrath, Conrad Vernon",2012,Madagascar 3: Europe's Most Wanted
+6.1,"236,957",Lee Tamahori,2002,Die Another Day
+7.8,"486,775",Ivan Reitman,1984,Ghostbusters
+6.7,"476,912",Michael Bay,1998,Armageddon
+6.2,"428,899",Barry Sonnenfeld,2002,Men in Black II
+6.3,"179,258",Robert Zemeckis,2007,Beowulf
+7.1,"215,526","Alessandro Carloni, Jennifer Yuh Nelson",2016,Kung Fu Panda 3
+7.4,"564,485",Brad Bird,2011,Mission: Impossible - Ghost Protocol
+7.2,"207,985",Peter Ramsey,2012,Rise of the Guardians
+6.2,"160,407",Dean Parisot,2005,Fun with Dick and Jane
+7.8,"499,167",Edward Zwick,2003,The Last Samurai
+6.0,"186,124",Ridley Scott,2014,Exodus: Gods and Kings
+7.9,"636,122",J.J. Abrams,2009,Star Trek
+7.4,"958,249",Sam Raimi,2002,Spider-Man
+7.8,"398,152",Dean DeBlois,2014,How to Train Your Dragon 2
+5.4,"134,931",Alex Proyas,2016,Gods of Egypt
+5.1,"58,161",Rob Cohen,2005,Stealth
+7.6,"608,552",Zack Snyder,2009,Watchmen
+6.6,"179,234",Richard Donner,1998,Lethal Weapon 4
+5.7,"290,412",Ang Lee,2003,Hulk
+5.7,"192,513",Jon M. Chu,2013,G.I. Joe: Retaliation
+6.1,"108,721",Breck Eisner,2005,Sahara
+6.4,"86,028","Hironobu Sakaguchi, Motonori Sakakibara",2001,Final Fantasy: The Spirits Within
+6.9,"966,241",Joe Johnston,2011,Captain America: The First Avenger
+6.4,"218,190",Michael Apted,1999,The World Is Not Enough
+7.5,"253,886",Peter Weir,2003,Master and Commander: The Far Side of the World
+5.6,"279,805",Bill Condon,2012,The Twilight Saga: Breaking Dawn - Part 2
+5.8,"50,308","George Miller, Gary Eck, David Peers",2011,Happy Feet Two
+6.6,"563,613",Louis Leterrier,2008,The Incredible Hulk
+6.3,"98,409",Steven Spielberg,2016,The BFG
+8.0,"947,792",Alejandro G. Iñárritu,2016,The Revenant
+6.4,"123,630",David Soren,2013,Turbo
+7.3,"314,167",Gore Verbinski,2011,Rango
+6.6,"113,406","Eric Darnell, Simon J. Smith",2014,Penguins of Madagascar
+8.0,"681,537",Paul Greengrass,2007,The Bourne Ultimatum
+7.6,"574,537","Mark Osborne, John Stevenson",2008,Kung Fu Panda
+7.2,"778,683",Peyton Reed,2015,Ant-Man
+7.5,"768,630",Francis Lawrence,2013,The Hunger Games: Catching Fire
+6.5,"120,478",Tim Johnson,2015,Home
+6.6,"502,091",Steven Spielberg,2005,War of the Worlds
+6.6,"288,014",Michael Bay,2003,Bad Boys II
+6.6,"208,940",Chris Miller,2011,Puss in Boots
+6.5,"341,745",Phillip Noyce,2010,Salt
+5.8,"275,793",Darren Aronofsky,2014,Noah
+7.3,"253,447",Steven Spielberg,2011,The Adventures of Tintin
+7.9,"761,199",Alfonso Cuarón,2004,Harry Potter and the Prisoner of Azkaban
+6.6,"132,196",Baz Luhrmann,2008,Australia
+4.8,"216,012",M. Night Shyamalan,2013,After Earth
+6.4,"72,205","Eric Leighton, Ralph Zondag",2000,Dinosaur
+6.2,"148,225",Shawn Levy,2014,Night at the Museum: Secret of the Tomb
+7.3,"322,951",Tom McGrath,2010,Megamind
+N/A,41,N/A,2020–2021,Harry Potter and the Philosopher's Stone
+5.6,"150,302",Robert Schwentke,2013,R.I.P.D.
+8.1,"1,323,403",Gore Verbinski,2003,Pirates of the Caribbean: The Curse of the Black Pearl
+6.6,"541,925",Francis Lawrence,2014,The Hunger Games: Mockingjay - Part 1
+6.6,"480,857",Ron Howard,2006,The Da Vinci Code
+6.3,"109,310",Carlos Saldanha,2014,Rio 2
+N/A,N/A,N/A,2008,X2
+7.3,"430,221",Justin Lin,2011,Fast Five
+7.4,"498,829",Guy Ritchie,2011,Sherlock Holmes: A Game of Shadows
+5.8,"303,998",Louis Leterrier,2010,Clash of the Titans
+7.5,"378,339",Paul Verhoeven,1990,Total Recall
+6.6,"137,391",John McTiernan,1999,The 13th Warrior
+6.6,"325,874",Tony Gilroy,2012,The Bourne Legacy
+7.5,"429,189",Tim Burton,1989,Batman & Robin
+6.4,"331,546",Ron Howard,2000,How the Grinch Stole Christmas
+6.5,"509,136",Roland Emmerich,2004,The Day After Tomorrow
+6.1,"413,413",John Woo,2000,Mission: Impossible II
+6.5,"186,840",Wolfgang Petersen,2000,The Perfect Storm
+,,,,Fantastic 4: Rise of the Silver Surfer
+7.9,"697,056",Ang Lee,2012,Life of Pi
+5.3,"267,165",Mark Steven Johnson,2007,Ghost Rider
+6.6,"256,031",Paul Greengrass,2016,Jason Bourne
+4.9,"138,017",McG,2003,Charlie's Angels: Full Throttle
+7.0,"691,831",Ridley Scott,2012,Prometheus
+5.5,"60,920",Rob Minkoff,2002,Stuart Little 2
+6.6,"489,527",Neill Blomkamp,2013,Elysium
+6.6,"249,300",David Twohy,2004,The Chronicles of Riddick
+7.6,"306,168",Paul Verhoeven,1987,RoboCop
+6.1,"82,621","Lana Wachowski, Lilly Wachowski",2008,Speed Racer
+5.4,"57,194",James L. Brooks,2010,How Do You Know
+6.3,"224,032",James Mangold,2010,Knight and Day
+7.0,"583,313",Joseph Kosinski,2013,Oblivion
+7.7,"912,634",George Lucas,2005,Star Wars: Episode III - Revenge of the Sith
+6.6,"815,170",George Lucas,2002,Star Wars: Episode II - Attack of the Clones
+8.1,"1,072,549","Pete Docter, David Silverman, Lee Unkrich",2001,"Monsters, Inc."
+6.7,"523,235",James Mangold,2013,The Wolverine
+6.5,"917,424",George Lucas,1999,Star Wars: Episode I - The Phantom Menace
+7.1,"249,657","Kirk DeMicco, Chris Sanders",2013,The Croods
+5.2,"34,380","Frédéric Forestier, Thomas Langmann",2008,Asterix at the Olympic Games
+6.1,"76,630",John Woo,2002,Windtalkers
+6.1,"126,084",Cedric Nicolas-Troyan,2016,The Huntsman: Winter's War
+5.8,"229,104",Jonathan Liebesman,2014,Teenage Mutant Ninja Turtles
+7.7,"895,643",Alfonso Cuarón,2013,Gravity
+6.1,"106,252",Roger Donaldson,1997,Dante's Peak
+5.9,"105,290",Dave Green,2016,Teenage Mutant Ninja Turtles: Out of the Shadows
+5.7,"373,343",Tim Story,2005,Fantastic Four
+6.5,"404,946",Shawn Levy,2006,Night at the Museum
+6.1,"275,264",Brad Peyton,2015,San Andreas
+6.5,"213,704",Roger Spottiswoode,1997,Tomorrow Never Dies
+7.2,"305,970",Roland Emmerich,2000,The Patriot
+6.5,"435,634",Steven Soderbergh,2004,Ocean's Twelve
+6.5,"588,762",Doug Liman,2005,Mr. & Mrs. Smith
+N/A,N/A,Joe Lemieux,2024,Insurgent
+7.5,"401,380",Martin Scorsese,2004,The Aviator
+4.9,"77,339",Rob Letterman,2010,Gulliver's Travels
+5.8,"168,421",Michel Gondry,2011,The Green Hornet
+6.2,"327,913",Noam Murro,2014,300: Rise of an Empire
+5.4,"102,729",Raja Gosnell,2011,The Smurfs
+5.4,"29,105","Will Finn, John Sanford",2004,Home on the Range
+5.7,"145,353",Robert Schwentke,2016,Allegiant
+7.1,"378,495",Shawn Levy,2011,Real Steel
+5.3,"49,596",Raja Gosnell,2013,The Smurfs 2
+4.0,"88,751",Jan de Bont,1997,Speed 2: Cruise Control
+6.6,"263,151",Gavin Hood,2013,Ender's Game
+7.1,"433,767",Len Wiseman,2007,Live Free or Die Hard
+8.9,"2,203,785",Peter Jackson,2001,The Lord of the Rings: The Fellowship of the Ring
+5.9,"99,120",Frank Coraci,2004,Around the World in 80 Days
+6.7,"108,321",Michael Mann,2001,Ali
+4.1,"92,689",Bo Welch,2003,The Cat in the Hat
+7.1,"611,841",Alex Proyas,2004,"I, Robot"
+7.3,"347,384",Ridley Scott,2005,Kingdom of Heaven
+6.0,"157,941",Rob Minkoff,1999,Stuart Little
+7.2,"184,917","Ron Clements, John Musker",2009,The Princess and the Frog
+8.0,"999,128",Ridley Scott,2015,The Martian
+6.8,"340,935",Michael Bay,2005,The Island
+5.6,"18,317",Alfonso Gomez-Rejon,2014,Town & Country
+N/A,N/A,Max Votolato,2020,Gone in Sixty Seconds
+8.5,"1,844,518",Ridley Scott,2000,Gladiator
+7.6,"617,708",Steven Spielberg,2002,Minority Report
+7.5,"759,564",Chris Columbus,2002,Harry Potter and the Chamber of Secrets
+8.0,"739,664",Martin Campbell,2006,Casino Royale
+5.7,"241,183",Tim Burton,2001,Planet of the Apes
+8.6,"1,282,391",James Cameron,1991,Terminator 2: Judgment Day
+6.9,"333,880",Michael Mann,2009,Public Enemies
+7.8,"483,108",Ridley Scott,2007,American Gangster
+7.3,"298,420",James Cameron,1994,True Lies
+,,,,The Taking of Pelham 1 2 3
+5.5,"123,972",Paul Weitz,2010,Little Fockers
+6.7,"307,921",Adam McKay,2010,The Other Guys
+6.2,"122,562",Chuck Russell,1996,Eraser
+8.5,"1,878,015",Quentin Tarantino,2012,Django Unchained
+7.0,"183,121","Gary Trousdale, Kirk Wise",1996,The Hunchback of Notre Dame
+7.4,"246,493",Mark Dindal,2000,The Emperor's New Groove
+6.6,"334,324",Simon West,2012,The Expendables 2
+6.9,"374,474",Jon Turteltaub,2004,National Treasure
+5.1,"134,352",Stefen Fangmeier,2006,Eragon
+6.7,"111,109",Spike Jonze,2009,Where the Wild Things Are
+6.6,"113,984",Chris Wedge,2013,Epic
+6.0,"266,981",Florian Henckel von Donnersmarck,2010,The Tourist
+5.8,"120,450",Peter Hyams,1999,End of Days
+8.0,"624,901",Edward Zwick,2006,Blood Diamond
+8.2,"1,784,314",Martin Scorsese,2013,The Wolf of Wall Street
+5.5,"279,237",Joel Schumacher,1995,Batman Forever
+7.3,"343,889",Paul Verhoeven,1997,Starship Troopers
+7.3,"385,516","Tom Tykwer, Lana Wachowski, Lilly Wachowski",2012,Cloud Atlas
+6.9,"91,248",Zack Snyder,2010,Legend of the Guardians: The Owls of Ga'Hoole
+3.4,"131,602",Pitof,2004,Catwoman
+7.3,"277,130","Ron Clements, John Musker",1997,Hercules
+7.2,"146,751","Ron Clements, John Musker",2002,Treasure Planet
+5.3,"78,326",Brad Silberling,2009,Land of the Lost
+6.1,"205,920",Patrick Hughes,2014,The Expendables 3
+7.3,"219,742",Kathryn Bigelow,1991,Point Break
+2.3,"60,188",Lawrence Guterman,2005,Son of the Mask
+6.9,"158,342",Ron Howard,2015,In the Heart of the Sea
+3.9,"27,418",Ron Underwood,2002,The Adventures of Pluto Nash
+6.8,"146,910",Paul Greengrass,2010,Green Zone
+7.0,"52,134",Steve Martino,2015,The Peanuts Movie
+7.1,"27,193",David Mamet,1997,The Spanish Prisoner
+6.4,"362,637",Stephen Sommers,2001,The Mummy Returns
+7.5,"502,256",Martin Scorsese,2002,Gangs of New York
+7.5,"57,993",Yimou Zhang,2011,The Flowers of War
+6.7,"99,759","Ash Brannon, Chris Buck",2007,Surf's Up
+5.4,"72,770",Frank Oz,2004,The Stepford Wives
+7.7,"454,170",Ridley Scott,2002,Black Hawk Down
+6.1,"138,859",Jay Roach,2012,The Campaign
+7.6,"539,521",Luc Besson,1997,The Fifth Element
+4.5,"87,275",Michael Patrick King,2010,Sex and the City 2
+6.9,"118,185","Bibo Bergeron, Don Paul, Jeffrey Katzenberg",2000,The Road to El Dorado
+6.5,"240,893","Steve Martino, Michael Thurmeier",2012,Ice Age: Continental Drift
+6.9,"204,139",Kenneth Branagh,2015,Cinderella
+6.6,"189,603",Peter Jackson,2009,The Lovely Bones
+8.2,"1,196,544","Andrew Stanton, Lee Unkrich",2003,Finding Nemo
+9.0,"2,161,991",Peter Jackson,2003,The Lord of the Rings: The Return of the King
+8.8,"1,954,618",Peter Jackson,2002,The Lord of the Rings: The Two Towers
+5.5,"84,008",Sergei Bodrov,2014,Seventh Son
+5.8,"229,645",Simon West,2001,Lara Croft: Tomb Raider
+6.2,"244,737",Wally Pfister,2014,Transcendence
+6.0,"366,719",Joe Johnston,2001,Jurassic Park III
+7.6,"600,908",Rupert Wyatt,2011,Rise of the Planet of the Apes
+6.5,"108,428",Mark Waters,2008,The Spiderwick Chronicles
+5.2,"222,360",John Moore,2013,A Good Day to Die Hard
+6.1,"23,182",John Lee Hancock,2004,The Alamo
+8.0,"891,503",Brad Bird,2004,The Incredibles
+5.7,"32,861",Renny Harlin,1995,Cutthroat Island
+6.8,63,N/A,2017–,Percy Jackson & the Olympians: The Lightning Thief
+7.3,"658,335",Barry Sonnenfeld,1997,Men in Black
+7.9,"663,076","John Lasseter, Ash Brannon, Lee Unkrich",1999,Toy Story 2
+6.8,"218,128",Tony Scott,2010,Unstoppable
+6.7,"256,979",Brett Ratner,2001,Rush Hour 2
+6.6,"141,301",Robert Zemeckis,2000,What Lies Beneath
+6.9,"282,964","Phil Lord, Christopher Miller",2009,Cloudy with a Chance of Meatballs
+6.9,"283,955","Carlos Saldanha, Michael Thurmeier",2009,Ice Age: Dawn of the Dinosaurs
+7.3,"365,611",Ben Stiller,2013,The Secret Life of Walter Mitty
+5.6,"206,779",McG,2000,Charlie's Angels
+8.5,"1,551,506",Martin Scorsese,2006,The Departed
+7.7,"343,199","Tony Bancroft, Barry Cook",1998,Mulan
+7.1,"485,373",Ben Stiller,2008,Tropic Thunder
+7.8,"525,793",David Fincher,2011,The Girl with the Dragon Tattoo
+7.6,"428,742",John McTiernan,1995,Die Hard: With a Vengeance
+7.5,"702,387",Guy Ritchie,2009,Sherlock Holmes
+8.1,"269,891",William Wyler,1959,Ben-Hur
+6.9,"145,597","Gary Trousdale, Kirk Wise",2001,Atlantis: The Lost Empire
+4.9,"25,133",Walt Becker,2015,Alvin and the Chipmunks: The Road Chip
+7.1,"272,480",Bryan Singer,2008,Valkyrie
+5.6,"227,284",Dennis Dugan,2008,You Don't Mess with the Zohan
+5.6,"177,787",Chris Columbus,2015,Pixels
+7.2,"337,075",Steven Spielberg,2001,A.I. Artificial Intelligence
+5.2,"59,784",Rob Minkoff,2003,The Haunted Mansion
+7.5,"309,188",Robert Zemeckis,1997,Contact
+5.9,"144,058",Paul Verhoeven,2000,Hollow Man
+6.4,"112,725",Sydney Pollack,2005,The Interpreter
+5.7,"132,757",Thor Freudenthal,2013,Percy Jackson: Sea of Monsters
+5.5,"151,121",Jan de Bont,2003,Lara Croft Tomb Raider: The Cradle of Life
+6.4,"357,612",Jon M. Chu,2016,Now You See Me 2
+6.2,"76,221",Phillip Noyce,1997,The Saint
+7.1,"177,136",Tony Scott,2001,Spy Game
+5.7,"78,892",Brian De Palma,2000,Mission to Mars
+6.9,"270,787",Carlos Saldanha,2011,Rio
+6.9,"131,241",Chris Columbus,1999,Bicentennial Man
+5.6,"86,213",Mick Jackson,1997,Volcano
+6.2,"76,244",Alan J. Pakula,1997,The Devil's Own
+6.7,"71,704",Kathryn Bigelow,2002,K-19: The Widowmaker
+6.9,"172,786",John Milius,1982,Conan the Barbarian
+8.0,"207,429",Ron Howard,2005,Cinderella Man
+4.1,"4,375",Andrei Konchalovsky,2010,The Nutcracker: The Untold Story
+7.3,"79,105",Gary Ross,2003,Seabiscuit
+6.6,"249,196",Jan de Bont,1996,Twister
+7.8,"676,631",Robert Zemeckis,2000,Cast Away
+6.4,"212,746","George Miller, Warren Coleman, Judy Morris",2006,Happy Feet
+7.7,"510,436",Paul Greengrass,2004,The Bourne Supremacy
+6.5,"221,851",Wolfgang Petersen,1997,Air Force One
+7.7,"668,514",Steven Soderbergh,2001,Ocean's Eleven
+5.7,"114,290",Paul W.S. Anderson,2011,The Three Musketeers
+7.0,"309,621",Genndy Tartakovsky,2012,Hotel Transylvania
+7.1,"227,480",Kevin Lima,2007,Enchanted
+6.7,"248,951",Daniel Espinosa,2012,Safe House
+4.9,"41,383",Kevin Lima,2000,102 Dalmatians
+6.2,"156,918",Brett Ratner,2011,Tower Heist
+7.0,"365,357",Nancy Meyers,2006,The Holiday
+7.3,"272,421",Tony Scott,1998,Enemy of the State
+6.6,"102,721",Nancy Meyers,2009,It's Complicated
+6.9,"385,455",Steven Soderbergh,2007,Ocean's Thirteen
+6.1,"112,152","Roger Allers, Jill Culton, Richard Williams",2006,Open Season
+6.6,"515,954",Neil Burger,2014,Divergent
+7.5,"291,849",Jean-Jacques Annaud,2001,Enemy at the Gates
+6.7,"147,360",Peter Berg,2003,The Rundown
+6.5,"173,615",John McTiernan,1993,Last Action Hero
+7.3,"171,577",Rob Marshall,2005,Memoirs of a Geisha
+6.1,"328,412",Justin Lin,2006,The Fast and the Furious: Tokyo Drift
+7.1,"70,891","Sarah Smith, Barry Cook",2011,Arthur Christmas
+7.2,"293,274",Martin Brest,1998,Meet Joe Black
+5.5,"80,474",Andrew Davis,2002,Collateral Damage
+7.8,"38,573",Bob Fosse,1979,All That Jazz
+5.6,"94,054",Tarsem Singh,2012,Mirror Mirror
+7.5,"495,847",Edgar Wright,2010,Scott Pilgrim vs. the World
+5.5,"114,588",Jon Amiel,2003,The Core
+4.5,"54,847",Peter Segal,2000,Nutty Professor II: The Klumps
+5.4,"138,973",Raja Gosnell,2002,Scooby-Doo
+7.1,"310,395",Pete Travis,2012,Dredd
+6.4,"386,574",Frank Coraci,2006,Click
+6.8,"55,785",George A. Romero,1982,Creepshow
+2.8,"58,683",Tom Hooper,2019,Cats & Dogs 2 : The Revenge of Kitty Galore
+6.1,"335,588",Doug Liman,2008,Jumper
+7.0,"297,109",Guillermo del Toro,2008,Hellboy II: The Golden Army
+7.7,"671,729",David Fincher,2007,Zodiac
+5.9,"132,219",Roger Spottiswoode,2000,The 6th Day
+6.8,"466,929",Tom Shadyac,2003,Bruce Almighty
+6.4,"380,153",Sylvester Stallone,2010,The Expendables
+7.4,"564,485",Brad Bird,2011,Mission: Impossible
+7.2,"1,074,757",Gary Ross,2012,The Hunger Games
+6.5,"572,504",Todd Phillips,2011,The Hangover Part II
+7.1,"348,538",Tim Burton,1992,Batman Returns
+6.7,"200,382","Tim Johnson, Karey Kirkpatrick",2006,Over the Hedge
+7.4,"243,669","Dean DeBlois, Chris Sanders",2002,Lilo & Stitch
+6.3,"48,642",Gary Winick,2006,Charlotte's Web
+6.3,"199,379",Mimi Leder,1998,Deep Impact
+6.6,"188,034",Dean Parisot,2013,RED 2
+6.4,"209,884",Peter Segal,2005,The Longest Yard
+4.4,"43,421",Mike Mitchell,2011,Alvin and the Chipmunks: Chipwrecked
+5.4,"190,524",Dennis Dugan,2013,Grown Ups 2
+6.5,"236,066",Peter Segal,2008,Get Smart
+6.8,"138,041",Nancy Meyers,2003,Something's Gotta Give
+8.2,"1,644,111",Martin Scorsese,2010,Shutter Island
+5.7,"88,143",Seth Gordon,2008,Four Christmases
+6.4,"173,700","Chris Wedge, Carlos Saldanha",2005,Robots
+7.3,"424,977",John Woo,1997,Face/Off
+6.0,"105,883",Adam Shankman,2008,Bedtime Stories
+7.6,"296,515",Sam Mendes,2002,Road to Perdition
+6.4,"289,427",Dennis Dugan,2011,Just Go with It
+6.9,"334,216",Simon West,1997,Con Air
+6.6,"200,536",D.J. Caruso,2008,Eagle Eye
+7.2,"163,042",Anthony Minghella,2003,Cold Mountain
+6.8,"360,572","Albert Hughes, Allen Hughes",2010,The Book of Eli
+5.3,"99,482",Les Mayfield,1997,Flubber
+5.0,"82,177",Jan de Bont,1999,The Haunting
+6.5,"228,174",Joe Pytka,1996,Space Jam
+5.7,"97,155",Shawn Levy,2006,The Pink Panther
+5.5,"185,888",Scott Derrickson,2008,The Day the Earth Stood Still
+6.7,"111,559",Richard Donner,1997,Conspiracy Theory
+7.6,"607,560",David Ayer,2014,Fury
+5.9,"86,273",Ivan Reitman,1998,Six Days Seven Nights
+4.6,"24,066",Eric Brevig,2010,Yogi Bear
+7.2,"92,551","Kelly Asbury, Lorna Cook",2002,Spirit: Stallion of the Cimarron
+5.2,"68,404",Frank Coraci,2011,Zookeeper
+7.3,"111,568",N/A,2018–2021,Lost in Space
+6.6,"121,188",Jonathan Demme,2004,The Manchurian Candidate
+6.8,970,Henry Jaglom,1997,Déjà Vu
+6.6,"160,207",Genndy Tartakovsky,2015,Hotel Transylvania 2
+7.1,"43,775","James Algar, Gaëtan Brizzi, Paul Brizzi",1999,Fantasia 2000
+6.0,"134,417",Simon Wells,2002,The Time Machine
+5.7,"31,958",Ron Underwood,1998,Mighty Joe Young
+6.5,"202,348",Dominic Sena,2001,Swordfish
+6.0,"112,175",Martin Campbell,2005,The Legend of Zorro
+7.0,"117,520",Vincent Ward,1998,What Dreams May Come
+5.3,"119,012",Steven Brill,2000,Little Nicky
+5.9,"131,293",Terry Gilliam,2005,The Brothers Grimm
+6.4,"255,116",Tim Burton,1996,Mars Attacks!
+6.1,"139,541",Ivan Reitman,2001,Evolution
+6.9,"83,217",Lee Tamahori,1997,The Edge
+6.3,"183,342",Jonathan Mostow,2009,Surrogates
+7.3,"63,884",Roger Donaldson,2000,Thirteen Days
+6.0,"80,522",Rob Cohen,1996,Daylight
+8.5,"7,496",N/A,1999,Walking With Dinosaurs
+2.5,"85,609",Roger Christian,2000,Battlefield Earth
+5.8,"41,828",Joe Dante,2003,Looney Tunes: Back in Action
+5.8,"46,378",Rob Marshall,2009,Nine
+5.6,"68,835",Richard Donner,2003,Timeline
+6.1,"81,394",Kevin Costner,1997,The Postman
+5.9,"37,237",George Miller,1998,Babe: Pig in the City
+5.9,"115,994",Breck Eisner,2015,The Last Witch Hunter
+5.7,"61,121",Antony Hoffman,2000,Red Planet
+6.0,"43,300",Luc Besson,2006,Arthur and the Invisibles
+7.7,"10,283","Jacques Perrin, Jacques Cluzaud",2008,Oceans
+4.2,"21,028",Peter Hyams,2005,A Sound of Thunder
+5.5,"120,980",Paul W.S. Anderson,2014,Pompeii
+4.3,658,Andrés Couturier,2015,Top Cat Begins
+8.2,"1,052,138",Ron Howard,2002,A Beautiful Mind
+8.5,"1,248,136","Roger Allers, Rob Minkoff",1994,The Lion King
+5.7,"120,244",Brad Peyton,2012,Journey 2: The Mysterious Island
+,,,,Cloudy with a Chance of Meatballs 2
+,,,,Red Dragon
+,,,,Hidalgo
+,,,,Jack and Jill

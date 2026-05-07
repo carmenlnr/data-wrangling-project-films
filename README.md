@@ -1,20 +1,37 @@
 # 🎬 Proyecto: ¿popular o bien valorada?
         Qué hace realmente que una película funcione
 
+### Problema de negocio
+
+En la industria del cine es importante entender qué factores influyen en el éxito de una película.
+
+Este proyecto analiza si el éxito depende principalmente de la popularidad, la valoración o de otros factores como el género, el presupuesto y el momento de estreno.
+
+El objetivo no es únicamente comparar métricas, sino entender cómo interactúan entre sí para definir el rendimiento de una película.
+
+
 ### Objetivo del proyecto
-El objetivo de este proyecto es analizar qué factores influyen en el rendimiento de una película, diferenciando entre dos conceptos:
-    - Popularidad → qué tanto se consume o llama la atención una película
-    - Valoración → qué tan bien es valorada por el público
-La idea principal es entender si las películas más populares son también las mejor valoradas, o si son dos cosas distintas.
+
+El objetivo de este proyecto es analizar qué factores influyen en el rendimiento de una película desde un enfoque multidimensional, estudiando relaciones entre variables como:
+
+- Popularidad → nivel de consumo o visibilidad de una película
+- Valoración → percepción de calidad por parte del público
+- Género → tipo de contenido cinematográfico
+- Presupuesto → nivel de inversión en la producción
+- Año de estreno → impacto del contexto temporal
+
+La idea principal es determinar si el éxito de una película puede explicarse mediante una única métrica o si depende de múltiples factores combinados.
 
 ### Dataset utilizados
 El dataset proviene de dos fuentes pública de datos de películas:
 
 1. TMDB Movie Dataset (Kaggle)
 
-Se ha utilizado como base principal del análisis. Contiene información de miles de películas con datos como:
+Dataset principal que contiene información de miles de películas con variables como:
 
-    - título género 
+    - título 
+    
+    - género 
 
     - presupuesto 
 
@@ -31,9 +48,9 @@ Se ha utilizado como base principal del análisis. Contiene información de mile
 
 Se ha utilizado para enriquecer el dataset con información adicional: 
 
-    - valoración IMDb 
+    - valoración OMDb 
 
-    - número de votos en IMDb 
+    - número de votos  
 
     - director 
 
@@ -53,7 +70,7 @@ Se ha utilizado para enriquecer el dataset con información adicional:
 
     Se analiza si una película muy popular también está bien valorada.
 
-4. IMDb y TMDB pueden ofrecer valoraciones diferentes
+4. OMDb y TMDB pueden ofrecer valoraciones diferentes
 
     Se comparan dos sistemas de valoración diferentes.
 
@@ -64,103 +81,72 @@ Se ha utilizado para enriquecer el dataset con información adicional:
 ---
 
 ### Proceso de análisis
-- Análisis exploratorio de datos (EDA) para entender la estructura del dataset
-    - Revisión de variables numéricas y categóricas
-    - Detección de valores nulos o inconsistencias
-    - Análisis de distribución de variables como popularidad, presupuesto y valoraciones
-    - Identificación de patrones iniciales entre variables
-- Recolección de datos:
 
-    - Se cargó un dataset de peliculas desde Kaggle.
-    - Se obtuvieron datos adicionales mediante API.
+- Análisis exploratorio de datos (EDA) para comprender la estructura del dataset
 - Limpieza y transformación de datos en Python (Pandas)
-
-    - Eliminación de nulos y duplicados
-    - Conversión de tipos de datos
-    - Procesamiento de campos de texto (géneros, números, etc.)
-- Integración de datos externos mediante API
-
-    - Añadidos datos de IMDb (rating, votos)
-    - Información de director y año
-    - Unión con el dataset principal
-- Análisis de datos
-
-Durante el análisis se han estudiado los siguientes aspectos:
-     - Géneros
-        - Géneros más frecuentes
-        - Relación con popularidad, valoración y presupuesto
-    - Valoraciones
-        - Comparación entre TMDB e IMDb
-        - Relación entre valoración y popularidad
-    - Presupuesto
-        - Relación con género, popularidad y valoración
-    - Popularidad
-        - Películas más populares
-        - Relación con valoración
-    - API (IMDb)
-        - Comparación IMDb vs TMDB
-        - Número de votos, director y año de estreno
-
-
-
+- Tratamiento de valores nulos, duplicados y tipos de datos
+- Procesamiento de variables categóricas como géneros
+- Integración de datos externos mediante la API de OMDb
+- Análisis de relaciones entre variables
+- Estudio de patrones en popularidad, valoración, presupuesto y género
 
 ###  KPIs calculados
 Durante el análisis se han definido indicadores clave para entender mejor el dataset:
     
     - Número total de películas analizadas
     - Popularidad media por género
-    - Valoración media por género (TMDB e IMDb)
+    - Valoración media por género (TMDB e OMDb)
     - Presupuesto medio por género
-    - Diferencia entre popularidad y valoración
-    - Distribución de películas por año
+    - Correlación entre popularidad y valoración
+    - Diferencia entre IMDb y TMDB
+    - Evolución de popularidad por año
 
 ### Métricas clave usadas
-Para el análisis se han utilizado operaciones básicas de agrupación y cálculo:
+Para el análisis se han utilizado operaciones básicas de agrupación y cálculo en Pandas;
 
-COUNT() → para contar películas
-
-AVG() → para calcular medias (rating, presupuesto, popularidad, votos)
-
-MIN / MAX → para ver valores extremos
-
-GROUP BY → para agrupar por género o año
-
-JOIN → para unir datos del dataset con la API (OMDb)
-
-Operaciones de limpieza en Pandas → para preparar y estructurar los datos
+    - COUNT() → para contar el número de películas y frecuencias por género
+    - MEAN() / AVG() → para calcular medias de valoración (TMDB e OMDb), popularidad y presupuesto
+    - MIN / MAX → para identificar valores extremos en popularidad y ratings
+    - GROUP BY → para agrupar datos por género y año
+    - EXPLODE() → para trabajar correctamente con géneros múltiples por película
+    - JOIN / MERGE → para unir el dataset principal con los datos obtenidos desde la API de OMDb (IMDb)
+    -  Transformación de fechas → para extraer el año de estreno desde release_date
+    - Cálculo de diferencias → para comparar OMDb vs TMDB (rating_diff)
+    - Limpieza de datos → tratamiento de nulos, tipos de datos 
 
 
 ---
 
-## Resultados / Insights (hallagoz más importanes, claros y accionables)
-(Completar después del análisis, ejemplo de cómo quedará)
-
-Los géneros de acción y aventura son los más populares
-
-Documentales y dramas suelen tener mejores valoraciones
-
-La popularidad no siempre implica mejor valoración
-
-El presupuesto influye más en visibilidad que en calidad percibida
-
-TMDB y IMDb no siempre coinciden
+## Resultados / Insights 
+- Los géneros de acción, aventura y ciencia ficción son los más populares, asociados a grandes producciones y mayor visibilidad.
+- Géneros como documental, foreign o TV movie presentan baja popularidad, pero no necesariamente peor valoración.
+- La valoración media entre géneros es bastante estable (aprox. entre 5.6 y 6.7), sin grandes diferencias entre tipos de película.
+- La popularidad no está directamente relacionada con la valoración (correlación ≈ 0.27), lo que indica que son métricas independientes.
+- OMDb presenta valoraciones ligeramente superiores a TMDB, aunque ambas plataformas siguen patrones similares.
+- Las películas recientes tienden a ser más populares, influenciadas por factores como marketing, franquicias y distribución actual.
 
 ### Conclusiones
-La popularidad y la valoración no siempre van de la mano.
 
-Una película puede ser muy vista pero no estar bien valorada, o tener buenas valoraciones sin ser muy popular.
+El análisis muestra que el éxito de una película no depende de una única variable, sino de la interacción entre varios factores como presupuesto, género, popularidad y sistema de valoración.
 
-Esto ayuda a entender que el rendimiento de una película depende de diferentes factores y no de uno solo.
+Se observa que:
+
+- La popularidad y la valoración son métricas diferentes y no están fuertemente relacionadas.
+- El género influye en la visibilidad, pero no determina la calidad percibida.
+- El presupuesto afecta más a la exposición que a la valoración.
+- El rendimiento de una película depende de múltiples factores combinados.
+- Las distintas plataformas de valoración reflejan tendencias similares pero no idénticas.
+
+En conclusión, no existe una única métrica que defina el “éxito” de una película, sino distintas perspectivas que pueden llevar a interpretaciones diferentes.
 
 ---
 
 ### Próximos pasos (qué extenderias si tuvieras más datos o más tiempo)
 Si se quisiera ampliar el análisis, se podrían realizar las siguientes mejoras:
 
-- Analizar evolución temporal de popularidad y valoración
-- Analizar tendencias por década o evolución del cine en el tiempo
-- Incorporar más fuentes de datos externas
-
+- Análisis de evolución temporal más detallado por décadas
+- Estudio de tendencias de género a lo largo del tiempo
+- Incorporación de más variables externas como premios o ingresos
 
 ---
 
@@ -172,4 +158,4 @@ Si se quisiera ampliar el análisis, se podrían realizar las siguientes mejoras
 5. Revisar el análisis y visualizaciones
 
 ### Presentación
-Añadir
+https://docs.google.com/presentation/d/1McwCbpji0oNhfmi7BLYgZ_BdR9XNlK8cQ681B_qMk6I/edit?slide=id.p#slide=id.p
