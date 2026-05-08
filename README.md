@@ -146,4 +146,4 @@ Si se quisiera ampliar el análisis, se podrían realizar las siguientes mejoras
 5. Revisar el análisis y visualizaciones
 
 ### Presentación
-https://docs.google.com/presentation/d/1McwCbpji0oNhfmi7BLYgZ_BdR9XNlK8cQ681B_qMk6I/edit?slide=id.p#slide=id.p
+https://docs.google.com/presentation/d/1McwCbpji0oNhfmi7BLYgZ_BdR9XNlK8cQ681B_qMk6I/edit?usp=sharing
